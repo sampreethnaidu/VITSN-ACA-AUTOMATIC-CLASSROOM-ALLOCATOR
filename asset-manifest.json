@@ -1,21 +1,15 @@
 {
   "files": {
-    "main.css": "/VITSN-ACA-AUTOMATIC-CLASSROOM-ALLOCATOR/static/css/main.6046b6b3.css",
-    "main.js": "/VITSN-ACA-AUTOMATIC-CLASSROOM-ALLOCATOR/static/js/main.d4d71bf8.js",
-    "static/js/239.a5eaa3c5.chunk.js": "/VITSN-ACA-AUTOMATIC-CLASSROOM-ALLOCATOR/static/js/239.a5eaa3c5.chunk.js",
-    "static/js/977.3fc885c2.chunk.js": "/VITSN-ACA-AUTOMATIC-CLASSROOM-ALLOCATOR/static/js/977.3fc885c2.chunk.js",
-    "static/js/455.259b0efb.chunk.js": "/VITSN-ACA-AUTOMATIC-CLASSROOM-ALLOCATOR/static/js/455.259b0efb.chunk.js",
-    "static/js/453.9232ce7b.chunk.js": "/VITSN-ACA-AUTOMATIC-CLASSROOM-ALLOCATOR/static/js/453.9232ce7b.chunk.js",
+    "main.css": "/VITSN-ACA-AUTOMATIC-CLASSROOM-ALLOCATOR/static/css/main.9038b81f.css",
+    "main.js": "/VITSN-ACA-AUTOMATIC-CLASSROOM-ALLOCATOR/static/js/main.f658164e.js",
+    "static/js/453.f2dc9d84.chunk.js": "/VITSN-ACA-AUTOMATIC-CLASSROOM-ALLOCATOR/static/js/453.f2dc9d84.chunk.js",
     "index.html": "/VITSN-ACA-AUTOMATIC-CLASSROOM-ALLOCATOR/index.html",
-    "main.6046b6b3.css.map": "/VITSN-ACA-AUTOMATIC-CLASSROOM-ALLOCATOR/static/css/main.6046b6b3.css.map",
-    "main.d4d71bf8.js.map": "/VITSN-ACA-AUTOMATIC-CLASSROOM-ALLOCATOR/static/js/main.d4d71bf8.js.map",
-    "239.a5eaa3c5.chunk.js.map": "/VITSN-ACA-AUTOMATIC-CLASSROOM-ALLOCATOR/static/js/239.a5eaa3c5.chunk.js.map",
-    "977.3fc885c2.chunk.js.map": "/VITSN-ACA-AUTOMATIC-CLASSROOM-ALLOCATOR/static/js/977.3fc885c2.chunk.js.map",
-    "455.259b0efb.chunk.js.map": "/VITSN-ACA-AUTOMATIC-CLASSROOM-ALLOCATOR/static/js/455.259b0efb.chunk.js.map",
-    "453.9232ce7b.chunk.js.map": "/VITSN-ACA-AUTOMATIC-CLASSROOM-ALLOCATOR/static/js/453.9232ce7b.chunk.js.map"
+    "main.9038b81f.css.map": "/VITSN-ACA-AUTOMATIC-CLASSROOM-ALLOCATOR/static/css/main.9038b81f.css.map",
+    "main.f658164e.js.map": "/VITSN-ACA-AUTOMATIC-CLASSROOM-ALLOCATOR/static/js/main.f658164e.js.map",
+    "453.f2dc9d84.chunk.js.map": "/VITSN-ACA-AUTOMATIC-CLASSROOM-ALLOCATOR/static/js/453.f2dc9d84.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6046b6b3.css",
-    "static/js/main.d4d71bf8.js"
+    "static/css/main.9038b81f.css",
+    "static/js/main.f658164e.js"
   ]
 }
